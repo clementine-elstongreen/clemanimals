@@ -1,0 +1,24 @@
+.btn-pink {
+	background-color: #EEA5F6;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Viga, sans-serif;
+	transition: color 0.5s ease;
+}
+
+.btn-pink:hover {
+	color:#DF42D1;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
